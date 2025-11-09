@@ -51,3 +51,11 @@ Coneto local con remoto sin problemas y me doy cuenta de que la ubicación del r
 ![Captura de pantalla mostrando el editor y el resultado de la conexión en el navegador](src/contents/Conexion-local-remoto.png)
 
 Creo la carpeta contents para añadir capturas de pantalla y se actualiza el readme.
+
+**La imagen no muestra** (creo que por tamaño)
+
+## Creación de ramas cambios y merge
+
+1. Crea la rama development.
+2. Cambiamos a development realizamos estos cambios
+3. Cuando intetemos mergear va a haber conflictos porque en ambas ramas hemos modificado el readme. Nos interesa mantener ambos.
