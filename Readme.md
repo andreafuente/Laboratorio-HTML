@@ -61,4 +61,4 @@ Creo la carpeta contents para añadir capturas de pantalla y se actualiza el rea
 3. Cuando intetemos mergear va a haber conflictos porque en ambas ramas hemos modificado el readme. Nos interesa mantener ambos.
 
 **Cambios desde main**
-**Cambios desde development**
+**Cambios desde development**gi
